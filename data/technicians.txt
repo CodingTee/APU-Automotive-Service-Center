@@ -1,0 +1,15 @@
+TECH001|zitong|technician123|Wang Zi Tong|zitong@apuasc.com|0125438765|Male|BUSY
+TECH002|rajan_tech|tech456|Rajan Kumar|rajan.kumar@apuasc.com|0134567890|Male
+TECH003|hafiz_tech|tech789|Mohd Hafiz|hafiz@apuasc.com|0145678901|Male
+TECH004|alex_tech|tech001|Alex Tan|alex.tan@apuasc.com|0112345678|Male
+TECH005|sarah_tech|tech002|Sarah Lim|sarah.lim@apuasc.com|0123456789|Female
+TECH006|david_tech|tech003|David Lee|david.lee@apuasc.com|0134567891|Male
+TECH007|mei_tech|tech004|Mei Ling|mei.ling@apuasc.com|0145678902|Female
+TECH008|john_tech|tech005|John Ng|john.ng@apuasc.com|0156789012|Male
+TECH009|wei_tech|tech006|Wei Jie|wei.jie@apuasc.com|0167890123|Male
+TECH010|amir_tech|tech007|Amir Hassan|amir.hassan@apuasc.com|0178901234|Male
+TECH011|lina_tech|tech008|Lina Wong|lina.wong@apuasc.com|0189012345|Female
+TECH012|kumar_tech|tech009|Kumar Santher|kumar.s@apuasc.com|0190123456|Male
+TECH013|yuki_tech|tech010|Yuki Chan|yuki.chan@apuasc.com|0101234567|Female
+TECH014|faisal_tech|tech011|Faisal Rahman|faisal.r@apuasc.com|0112345679|Male
+TECH015|jason_tech|tech012|Jason Teoh|jason.teoh@apuasc.com|0123456781|Male

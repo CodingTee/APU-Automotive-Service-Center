@@ -1,0 +1,6 @@
+FB001|APT001|TECH001|Vehicle in good condition after service. Oil changed and filter replaced successfully. Customer was cooperative and vehicle was clean.|2026-03-01
+FB002|APT002|TECH002|Full engine overhaul completed. Found minor coolant leak which was patched. Brakes inspected and pads still have good life. Recommend next major service in 6 months.|2026-03-05
+FB003|APT003|TECH001|Tyre rotation completed and wheel alignment adjusted. Front tyres show moderate wear, advised customer to replace in 3 months.|2026-03-10
+FB004|APT004|TECH003|Transmission fluid flushed and replaced. AC compressor had a clogged filter which was cleaned. AC is now working efficiently. Overall vehicle condition is satisfactory.|2026-03-15
+FB005|APT007|TECH001|hi|2026-03-31
+FB006|APT008|TECH001|gross car|2026-05-03

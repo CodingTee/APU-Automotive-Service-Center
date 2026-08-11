@@ -1,0 +1,2 @@
+MGR001|admin|admin123|Administrator|admin@apuasc.com|0123456789|Male
+MGR002|sarah_mgr|manager123|Sarah Tan|sarah.tan@apuasc.com|0112345678|Female

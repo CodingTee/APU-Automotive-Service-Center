@@ -1,0 +1,2 @@
+CS001|ali|staff123|Ali Hassan|ali.hassan@apuasc.com|0198765432|BUSY|AVAILABLE
+CS002|mei_ling|staff456|Lim Mei Ling|mei.ling@apuasc.com|0167654321

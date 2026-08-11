@@ -1,0 +1,8 @@
+CUST001|john|cust123|John Doe|john.doe@gmail.com|0111234567|Male|Toyota Vios WXY1234||Honda Civic LUV 0520||BM WUT 1111
+CUST002|nurul|cust456|Nurul Ain|nurul.ain@gmail.com|0122345678|Male|Honda City KL5678B
+CUST003|chongwei|cust789|Chong Wei Liang|chong.wei@gmail.com|0133456789|Male|Proton Saga ABC9988
+CUST004|priya|custpass|Priya Krishnan|priya.k@gmail.com|0144567890|Male|Perodua Myvi PJU3344
+CUST005|farid|cust321|Farid Aziz|farid.aziz@gmail.com|0155678901|Male|Mazda CX-5 SGM7788
+CUST006|tee|123|tee|john@apu.com|0123456789|Male|
+CUST007|testuser|123|test|test@gmail.com|0123333444|Female|
+CUST008|yyyy|123|tee|q@gmail.com|1234567890|Male|

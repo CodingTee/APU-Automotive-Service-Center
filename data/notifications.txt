@@ -1,0 +1,190 @@
+NOTIF-20260528-221027-843|TECH008|New Appointment|New Appointment|A new Normal Service appointment (APT014) on 2026-05-28 at 08:00 for Farid Aziz (Mazda CX-5 SGM7788).|2026-05-28 22:10:27|0
+NOTIF-20260528-221027-843|CUST005|Appointment Today|Appointment Today|You have a Normal Service appointment today at 08:00 (ID: APT014).|2026-05-28 22:10:27|0
+NOTIF-20260528-221147-670|CUST005|Appointment Today|Appointment Today|You have a NORMAL service appointment today at 08:00 (ID: APT014).|2026-05-28 22:11:47|0
+NOTIF-20260528-221301-686|CUST005|Job Completed|Job Completed|Your NORMAL service appointment (APT014) is now complete. Please proceed to counter for payment.|2026-05-28 22:13:01|0
+NOTIF-20260528-221301-689|MGR001|Out of Stock|Out of Stock|Engine Air Filter (Part ID: PART006) is now OUT OF STOCK. Please restock.|2026-05-28 22:13:01|0
+NOTIF-20260528-221301-689|MGR002|Out of Stock|Out of Stock|Engine Air Filter (Part ID: PART006) is now OUT OF STOCK. Please restock.|2026-05-28 22:13:01|0
+NOTIF-20260529-215040-846|TECH004|New Appointment|New Appointment|A new Normal Service appointment (APT015) on 2026-05-29 at 08:00 for John Doe (Toyota Vios WXY1234).|2026-05-29 21:50:40|0
+NOTIF-20260529-215320-562|CUST004|Payment Confirmed|Top-Up Confirmed|Top-up of RM 100.00 via Cash has been credited to your wallet. Receipt: RCP018.|2026-05-29 21:53:20|0
+NOTIF-20260529-223028-264|TECH006|Appointment Rescheduled|Appointment Rescheduled|Appointment APT006 has been rescheduled to 2026-05-30 at 09:00.|2026-05-29 22:30:28|0
+NOTIF-20260529-223028-266|TECH003|Appointment Rescheduled|Appointment Reassigned|Appointment APT006 has been reassigned to another technician.|2026-05-29 22:30:28|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Semi-Synthetic Engine Oil (4L) (Qty: 5) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Oil Filter (Qty: 6) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Drain Plug Washer (Qty: 6) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|21-Point Safety Check (Qty: 5) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Fully Synthetic Engine Oil (4L) (Qty: 7) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Engine Air Filter (Qty: 7) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Cabin Air Filter (Qty: 2) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Standard Spark Plugs (Set of 4) (Qty: 3) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Brake Fluid (0.5L) (Qty: 4) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Automatic Transmission Fluid (ATF) (Qty: 4) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Engine Flush (Qty: 2) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Fuel Injector Cleaner (Qty: 5) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Radiator Coolant / Antifreeze (Pre-Mixed) (Qty: 4) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Wiper Blades (Pair) (Qty: 1) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Front Brake Pads (Pair) (Qty: 2) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Rear Brake Pads / Shoes (Pair) (Qty: 2) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Car Battery (NS40 / NS60) (Qty: 1) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR001|Part Restocked|Part Restocked|Tyre Patching (per puncture) (Qty: 1) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Semi-Synthetic Engine Oil (4L) (Qty: 5) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Oil Filter (Qty: 6) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Drain Plug Washer (Qty: 6) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|21-Point Safety Check (Qty: 5) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Fully Synthetic Engine Oil (4L) (Qty: 7) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Engine Air Filter (Qty: 7) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Cabin Air Filter (Qty: 2) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Standard Spark Plugs (Set of 4) (Qty: 3) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Brake Fluid (0.5L) (Qty: 4) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Automatic Transmission Fluid (ATF) (Qty: 4) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Engine Flush (Qty: 2) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Fuel Injector Cleaner (Qty: 5) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Radiator Coolant / Antifreeze (Pre-Mixed) (Qty: 4) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Wiper Blades (Pair) (Qty: 1) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Front Brake Pads (Pair) (Qty: 2) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Rear Brake Pads / Shoes (Pair) (Qty: 2) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Car Battery (NS40 / NS60) (Qty: 1) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-223446-011|MGR002|Part Restocked|Part Restocked|Tyre Patching (per puncture) (Qty: 1) has been restocked.|2026-05-29 22:34:46|0
+NOTIF-20260529-224905-186|TECH001|New Appointment|New Appointment|A new Major Service appointment (APT016) on 2026-05-31 at 08:00 for John Doe (Toyota Vios WXY1234).|2026-05-29 22:49:05|0
+NOTIF-20260530-102102-801|CUST004|Payment Confirmed|Top-Up Confirmed|Top-up of RM 10.00 via Cash has been credited to your wallet. Receipt: RCP020.|2026-05-30 10:21:02|0
+NOTIF-20260530-105542-625|CUST003|Payment Confirmed|Top-Up Confirmed|Top-up of RM 10.00 via Cash has been credited to your wallet. Receipt: RCP021.|2026-05-30 10:55:42|0
+NOTIF-20260530-174002-083|CUST004|Payment Confirmed|Top-Up Confirmed|Top-up of RM 500.00 via Cash has been credited to your wallet. Receipt: RCP023.|2026-05-30 17:40:02|0
+NOTIF-20260530-235716-293|CUST002|Payment Confirmed|Top-Up Confirmed|Top-up of RM 50.00 via Cash has been credited to your wallet. Receipt: RCP024.|2026-05-30 23:57:16|0
+NOTIF-20260530-235905-313|CUST005|Payment Confirmed|Payment Confirmed|Payment of RM 552.00 for appointment APT014 has been confirmed. Thank you, CUST005!|2026-05-30 23:59:05|0
+NOTIF-20260603-203638-335|TECH003|New Appointment|New Appointment|A new Normal Service appointment (APT017) on 2026-06-03 at 08:00 for John Doe (Toyota Vios WXY1234).|2026-06-03 20:36:38|0
+NOTIF-20260603-204232-883|CUST006|Payment Confirmed|Top-Up Confirmed|Top-up of RM 1000.00 via FPX has been credited to your wallet. Receipt: RCP027.|2026-06-03 20:42:32|0
+NOTIF-20260603-204232-889|CUST006|VIP Tier Upgrade|VIP Tier Upgraded|Congratulations! Your VIP tier has been upgraded to BRONZE (1000 pts)!|2026-06-03 20:42:32|0
+NOTIF-20260603-204238-112|CUST006|Monthly Coupon|Monthly Coupon Issued|Your BRONZE VIP coupon (RM 20.00 off) has been issued! Code: VIP-BRONZE-202606. Expires: 2026-06-30.|2026-06-03 20:42:38|0
+NOTIF-20260603-204444-142|CUST006|Payment Confirmed|Top-Up Confirmed|Top-up of RM 10000.00 via FPX has been credited to your wallet. Receipt: RCP028.|2026-06-03 20:44:44|0
+NOTIF-20260603-204444-150|CUST006|VIP Tier Upgrade|VIP Tier Upgraded|Congratulations! Your VIP tier has been upgraded to GOLD (11000 pts)!|2026-06-03 20:44:44|0
+NOTIF-20260603-204447-572|CUST006|Monthly Coupon|Monthly Coupon Issued|Your GOLD VIP coupon (RM 20.00 off) has been issued! Code: VIP-GOLD-202606. Expires: 2026-06-30.|2026-06-03 20:44:47|0
+NOTIF-20260603-204911-101|TECH004|Appointment Rescheduled|Appointment Rescheduled|Appointment APT006 has been rescheduled to 2026-06-04 at 09:00.|2026-06-03 20:49:11|0
+NOTIF-20260603-204911-102|TECH006|Appointment Rescheduled|Appointment Reassigned|Appointment APT006 has been reassigned to another technician.|2026-06-03 20:49:11|0
+NOTIF-20260603-204943-561|TECH005|Appointment Rescheduled|Appointment Rescheduled|Appointment APT013 has been rescheduled to 2026-06-04 at 09:00.|2026-06-03 20:49:43|0
+NOTIF-20260603-204943-561|TECH001|Appointment Rescheduled|Appointment Reassigned|Appointment APT013 has been reassigned to another technician.|2026-06-03 20:49:43|0
+NOTIF-20260603-205122-797|TECH004|New Appointment|New Appointment|A new Normal Service appointment (APT018) on 2026-06-04 at 08:00 for John Doe (Toyota Vios WXY1234).|2026-06-03 20:51:22|0
+NOTIF-20260604-010851-226|TECH001|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|TECH002|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|TECH003|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|TECH004|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|TECH005|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|TECH006|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|TECH007|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|TECH008|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|TECH009|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|TECH010|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|TECH011|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|TECH012|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|TECH013|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|TECH014|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|TECH015|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|CS001|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-010851-228|CS002|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-04 01:08:51|0
+NOTIF-20260604-050908-281|TECH001|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|TECH002|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|TECH003|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|TECH004|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|TECH005|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|TECH006|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|TECH007|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|TECH008|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|TECH009|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|TECH010|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|TECH011|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|TECH012|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|TECH013|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|TECH014|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|TECH015|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|CS001|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050908-281|CS002|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:08|0
+NOTIF-20260604-050940-956|TECH001|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|TECH002|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|TECH003|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|TECH004|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|TECH005|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|TECH006|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|TECH007|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|TECH008|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|TECH009|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|TECH010|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|TECH011|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|TECH012|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|TECH013|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|TECH014|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|TECH015|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|CS001|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-050940-956|CS002|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-04 05:09:40|0
+NOTIF-20260604-052545-564|TECH001|Appointment Rescheduled|Appointment Rescheduled|Appointment APT005 has been rescheduled to 2026-06-05 at 11:00.|2026-06-04 05:25:45|0
+NOTIF-20260604-052545-566|TECH002|Appointment Rescheduled|Appointment Reassigned|Appointment APT005 has been reassigned to another technician.|2026-06-04 05:25:45|0
+NOTIF-20260605-141155-324|MGR001|Part Restocked|Part Restocked|Semi-Synthetic Engine Oil (4L) (Qty: 1) has been restocked.|2026-06-05 14:11:55|0
+NOTIF-20260605-141155-326|MGR002|Part Restocked|Part Restocked|Semi-Synthetic Engine Oil (4L) (Qty: 1) has been restocked.|2026-06-05 14:11:55|0
+NOTIF-20260605-160056-261|TECH001|New Appointment|New Appointment|A new Normal Service appointment (APT019) on 2026-06-04 at 08:00 for John Doe (Toyota Vios WXY1234).|2026-06-05 16:00:56|0
+NOTIF-20260605-160130-660|TECH001|New Appointment|New Appointment|A new Normal Service appointment (APT020) on 2026-06-07 at 09:00 for John Doe (Toyota Vios WXY1234).|2026-06-05 16:01:30|0
+NOTIF-20260605-160141-767|TECH007|New Appointment|New Appointment|A new Normal Service appointment (APT021) on 2026-06-07 at 10:00 for Chong Wei Liang (Proton Saga ABC9988).|2026-06-05 16:01:41|0
+NOTIF-20260605-160530-718|TECH001|New Appointment|New Appointment|A new Normal Service appointment (APT022) on 2026-06-05 at 14:00 for Nurul Ain (Honda City KL5678B).|2026-06-05 16:05:30|0
+NOTIF-20260605-160530-721|CUST002|Appointment Today|Appointment Today|You have a Normal Service appointment today at 14:00 (ID: APT022).|2026-06-05 16:05:30|0
+NOTIF-20260605-160605-335|TECH001|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|TECH002|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|TECH003|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|TECH004|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|TECH005|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|TECH006|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|TECH007|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|TECH008|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|TECH009|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|TECH010|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|TECH011|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|TECH012|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|TECH013|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|TECH014|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|TECH015|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|CS001|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160605-335|CS002|Schedule Published|Schedule Updated|The work schedule for week 2026-06-01 has been updated. Check My Schedule for the latest details.|2026-06-05 16:06:05|0
+NOTIF-20260605-160609-888|TECH001|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-888|TECH002|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-888|TECH003|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-888|TECH004|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-888|TECH005|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-888|TECH006|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-888|TECH007|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-888|TECH008|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-892|TECH009|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-892|TECH010|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-892|TECH011|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-892|TECH012|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-892|TECH013|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-892|TECH014|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-892|TECH015|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-892|CS001|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-160609-892|CS002|Schedule Published|Schedule Published|The work schedule for week 2026-06-01 has been published. Check My Schedule for details.|2026-06-05 16:06:09|0
+NOTIF-20260605-164316-554|TECH004|Rating Received|New Rating Received|A customer rated you 3/5 stars ★★★☆☆ for appointment APT006.|2026-06-05 16:43:16|0
+NOTIF-20260605-164510-869|CUST001|Payment Confirmed|Top-Up Confirmed|Top-up of RM 5000.00 via TNG has been credited to your wallet. Receipt: RCP031.|2026-06-05 16:45:10|0
+NOTIF-20260605-164539-149|CUST001|Payment Confirmed|Top-Up Confirmed|Top-up of RM 5000.00 via FPX has been credited to your wallet. Receipt: RCP032.|2026-06-05 16:45:39|0
+NOTIF-20260605-164539-167|CUST001|VIP Tier Upgrade|VIP Tier Upgraded|Congratulations! Your VIP tier has been upgraded to GOLD (13451 pts)!|2026-06-05 16:45:39|0
+NOTIF-20260605-164545-581|CUST001|Monthly Coupon|Monthly Coupon Issued|Your GOLD VIP coupon (RM 20.00 off) has been issued! Code: VIP-GOLD-202606. Expires: 2026-06-30.|2026-06-05 16:45:45|0
+NOTIF-20260605-165249-474|TECH001|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-474|TECH002|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-474|TECH003|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-476|TECH004|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-476|TECH005|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-476|TECH006|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-476|TECH007|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-476|TECH008|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-476|TECH009|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-476|TECH010|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-476|TECH011|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-476|TECH012|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-478|TECH013|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-478|TECH014|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-478|TECH015|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-478|CS001|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165249-478|CS002|Schedule Published|Schedule Published|The work schedule for week 2026-06-29 has been published. Check My Schedule for details.|2026-06-05 16:52:49|0
+NOTIF-20260605-165422-557|CUST005|Job Completed|Job Completed|Your NORMAL service appointment (APT005) is now complete. Please proceed to counter for payment.|2026-06-05 16:54:22|0
+NOTIF-20260605-165446-539|CUST005|Health Record Added|Vehicle Health Record Added|A new vehicle health record has been added for your vehicle (Mazda CX-5 SGM7788) after appointment APT005.|2026-06-05 16:54:46|0
+NOTIF-20260605-165745-282|TECH001|Appointment Rescheduled|Appointment Rescheduled|Appointment APT013 has been rescheduled to 2026-06-06 at 09:00.|2026-06-05 16:57:45|0
+NOTIF-20260605-165745-282|TECH005|Appointment Rescheduled|Appointment Reassigned|Appointment APT013 has been reassigned to another technician.|2026-06-05 16:57:45|0
+NOTIF-20260605-165846-270|CUST001|Payment Confirmed|Top-Up Confirmed|Top-up of RM 500.00 via Cash has been credited to your wallet. Receipt: RCP033.|2026-06-05 16:58:46|0
+NOTIF-20260605-170010-820|CUST001|Payment Confirmed|Payment Confirmed|Payment of RM 491.56 for appointment APT015 has been confirmed. Thank you, CUST001!|2026-06-05 17:00:10|0
+NOTIF-20260715-141931-871|CUST001|Monthly Coupon|Monthly Coupon Issued|Your GOLD VIP coupon (RM 20.00 off) has been issued! Code: VIP-GOLD-202607. Expires: 2026-07-31.|2026-07-15 14:19:31|0
+NOTIF-20260715-141931-898|CUST006|Monthly Coupon|Monthly Coupon Issued|Your GOLD VIP coupon (RM 20.00 off) has been issued! Code: VIP-GOLD-202607. Expires: 2026-07-31.|2026-07-15 14:19:31|0
+NOTIF-20260802-000608-132|CUST001|Monthly Coupon|Monthly Coupon Issued|Your GOLD VIP coupon (RM 20.00 off) has been issued! Code: VIP-GOLD-202608. Expires: 2026-08-31.|2026-08-02 00:06:08|0
+NOTIF-20260802-000608-160|CUST006|Monthly Coupon|Monthly Coupon Issued|Your GOLD VIP coupon (RM 20.00 off) has been issued! Code: VIP-GOLD-202608. Expires: 2026-08-31.|2026-08-02 00:06:08|0

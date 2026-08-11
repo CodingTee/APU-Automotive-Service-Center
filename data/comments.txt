@@ -1,0 +1,6 @@
+CMT001|APT001|CUST001|Ali was very helpful and professional when booking my appointment. Clear explanation of the service.|The technician was efficient and finished the job on time. Very satisfied with the oil change service.|2026-03-02|0|0
+CMT002|APT002|CUST002|Mei Ling was polite and explained the major service package clearly. Booking was easy.|Rajan did an excellent job with the engine overhaul. He explained every step and the car runs much better now.|2026-04-20|4|4
+CMT003|APT003|CUST003|Counter staff was responsive and confirmed my appointment quickly. Good service.|Zi Tong was skilled and thorough. Tyre rotation done properly and alignment feels much better on the road.|2026-03-11|0|0
+CMT004|APT004|CUST004|Staff at the counter was very accommodating and helped me choose the right service package.|Hafiz was very knowledgeable about the transmission issue. AC is working perfectly again. Highly recommended.|2026-03-16|0|0
+CMT005|APT010|CUST001|good service|rubbish|2026-06-04|5|0
+CMT006|APT006|CUST001|G|H|2026-06-05|3|3

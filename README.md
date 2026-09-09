@@ -1,4 +1,4 @@
-# APU-ASC — Automotive Service Centre Management System
+# APU-ASC: Automotive Service Centre Management System
 
 A full-featured **Java Swing desktop application** for managing an automotive service centre.  
 Built as an Object-Oriented Programming (OOP) course project at Asia Pacific University (APU).
@@ -24,10 +24,10 @@ Built as an Object-Oriented Programming (OOP) course project at Asia Pacific Uni
 
 ## Overview
 
-APU-ASC is a multi-role desktop management system for an automotive service centre. It handles the complete service lifecycle — from appointment booking and technician assignment, through service execution, to payment and receipt generation — along with a VIP loyalty program, customer feedback system, vehicle health records, inventory management, and employee scheduling.
+APU-ASC is a multi-role desktop management system for an automotive service centre. It handles the complete service lifecycle (from appointment booking and technician assignment through service execution to payment and receipt generation), along with a VIP loyalty program, customer feedback system, vehicle health records, inventory management, and employee scheduling.
 
 - **55 Java source files**, ~19,700 lines of code
-- **No external database** — all data is persisted in flat text files (pipe-separated)
+- **No external database**, since all data is persisted in flat text files (pipe-separated)
 - **Pure Java Swing GUI** with custom rendering, rounded panels, avatar system, and themeable backgrounds
 - **PDFBox** integration for PDF report/receipt generation
 
@@ -46,7 +46,7 @@ APU-ASC is a multi-role desktop management system for an automotive service cent
 - Points earned at 1 pt per RM spent
 - Tier-based service discounts (GOLD: 2%, BLACKGOLD: 5%)
 - Automatic monthly coupon issuance (BRONZE: RM 20, BLACKGOLD: RM 50)
-- Upgrade-aware coupon logic — tier-up triggers immediate new-tier coupon
+- Upgrade-aware coupon logic: tier-up triggers immediate new-tier coupon
 
 ### Payment & Receipts
 - Counter staff collect payments for completed services
@@ -62,7 +62,7 @@ APU-ASC is a multi-role desktop management system for an automotive service cent
 ### Customer Feedback & Comments
 - Star ratings for counter staff and technicians
 - Text comments per completed appointment
-- Notification system — technicians get notified when rated
+- Notification system, so technicians get notified when rated
 
 ### Inventory (Car Parts)
 - Manager manages part stock levels
@@ -147,10 +147,10 @@ The project demonstrates all four OOP pillars plus three relationship types:
 
 | Pillar | Implementation |
 |--------|---------------|
-| **Abstraction** | `User` is an abstract class with abstract methods `getDisplayInfo()` and `openDashboard()` — each subclass implements its own dashboard |
+| **Abstraction** | `User` is an abstract class with abstract methods `getDisplayInfo()` and `openDashboard()`, and each subclass implements its own dashboard |
 | **Inheritance** | `Manager`, `CounterStaff`, `Technician`, `Customer` all extend `User` |
 | **Encapsulation** | All fields are `private`/`protected` with public getters/setters; `transient` marker used to exclude runtime object references from serialization |
-| **Polymorphism** | `openDashboard()` is overridden — calling `user.openDashboard()` opens the correct dashboard based on runtime type |
+| **Polymorphism** | `openDashboard()` is overridden, so calling `user.openDashboard()` opens the correct dashboard based on runtime type |
 
 ### Relationships
 
@@ -200,10 +200,10 @@ APT001|CUST001|TECH001|CS001|NORMAL|COMPLETED|2025-06-15|10:00|toyota vios WXY12
 ```
 
 On startup, `FileManager` performs three automatic operations:
-1. **`initializeFiles()`** — creates missing files and seeds a default manager (`admin` / `admin123`) and default pricing
-2. **`resolveReferences()`** — populates runtime object references from ID strings
-3. **`autoMarkMissedAppointments()`** — marks past-due SCHEDULED appointments as MISSED
-4. **`autoRefreshAllMonthlyCoupons()`** — issues pending monthly coupons for eligible VIP members
+1. **`initializeFiles()`**: creates missing files and seeds a default manager (`admin` / `admin123`) and default pricing
+2. **`resolveReferences()`**: populates runtime object references from ID strings
+3. **`autoMarkMissedAppointments()`**: marks past-due SCHEDULED appointments as MISSED
+4. **`autoRefreshAllMonthlyCoupons()`**: issues pending monthly coupons for eligible VIP members
 
 ---
 
@@ -272,7 +272,7 @@ APUASC/
 - **Java JDK 21** or later (developed and tested on Java 21)
 - **Eclipse IDE** (recommended) or any Java IDE
 - **Apache PDFBox 2.0.31** (included in `lib/`)
-- *(Optional)* **FlatLaf** jar for modern IntelliJ-style dark UI — otherwise falls back to Nimbus
+- *(Optional)* **FlatLaf** jar for a modern IntelliJ-style dark UI; otherwise it falls back to Nimbus
 
 ---
 
